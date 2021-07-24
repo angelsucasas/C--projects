@@ -1,0 +1,13 @@
+Granos Garbanzos 
+Granos Frijoles 
+Granos Caraotas_Negra 
+Granos Caraotas_Roja 
+Azucar Blanca 
+Azucar Morena 
+Azucar Pulverizada 
+Lacteos Leche_en_polvo 
+Lacteos Leche_U.T.H 
+Arroz Blanco 
+Arroz Saborizado 
+Arroz Parboiled 
+granos prueba 
